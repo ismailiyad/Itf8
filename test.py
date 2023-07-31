@@ -1,14 +1,8 @@
-name = "ismail"
-age = 28
-length = 178
-maried = True
-Age = "25"
+name = input("Enter Your Name :")
+print(name)
 
-print(type(name))
-print(type(length))
-print(type(age))
-print(type(maried))
-print(type(Age))
+age = int(input("Enter Your age :"))
+print(age)
 
-Age = int(Age)
-print(type(Age))
+date = (input("Enter Your Date :"))
+print(date)
